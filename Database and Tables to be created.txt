@@ -1,0 +1,5 @@
+dbtest database for index.php
+it contains table "users" with columns userID, userNAME, userEMAIL, userPASS.
+
+todolist database for home.php
+it contains table "todo" with id, todoTitle, todoDescription, Date
